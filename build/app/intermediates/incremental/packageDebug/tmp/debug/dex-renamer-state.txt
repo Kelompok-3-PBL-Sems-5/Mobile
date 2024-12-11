@@ -1,0 +1,4 @@
+#Thu Oct 31 08:38:29 ICT 2024
+base.0=E\:\\Kuliah\\Sems 5\\Mobile\\kelompok3\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

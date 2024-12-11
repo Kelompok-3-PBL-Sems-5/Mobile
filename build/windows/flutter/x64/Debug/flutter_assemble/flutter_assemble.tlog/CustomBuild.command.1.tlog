@@ -1,0 +1,28 @@
+^E:\KULIAH\SEMS 5\MOBILE\KELOMPOK3\BUILD\WINDOWS\CMAKEFILES\DCC1359D1359799E6F135A60BB4C7D00\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\Apps\flutter "PROJECT_DIR=E:\Kuliah\Sems 5\Mobile\kelompok3" FLUTTER_ROOT=C:\Apps\flutter "FLUTTER_EPHEMERAL_DIR=E:\Kuliah\Sems 5\Mobile\kelompok3\windows\flutter\ephemeral" "PROJECT_DIR=E:\Kuliah\Sems 5\Mobile\kelompok3" "FLUTTER_TARGET=E:\Kuliah\Sems 5\Mobile\kelompok3\lib\main.dart" DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false "PACKAGE_CONFIG=E:\Kuliah\Sems 5\Mobile\kelompok3\.dart_tool\package_config.json" C:/Apps/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\KULIAH\SEMS 5\MOBILE\KELOMPOK3\BUILD\WINDOWS\CMAKEFILES\A6532E9FCB3514322AB6BCC19DC2BF56\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\KULIAH\SEMS 5\MOBILE\KELOMPOK3\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SE:/Kuliah/Sems 5/Mobile/kelompok3/windows" "-BE:/Kuliah/Sems 5/Mobile/kelompok3/build/windows" --check-stamp-file "E:/Kuliah/Sems 5/Mobile/kelompok3/build/windows/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

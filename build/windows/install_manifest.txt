@@ -1,0 +1,9 @@
+E:/Kuliah/Sems 5/Mobile/kelompok3/build/windows/runner/Debug/data/icudtl.dat
+E:/Kuliah/Sems 5/Mobile/kelompok3/build/windows/runner/Debug/flutter_windows.dll
+E:/Kuliah/Sems 5/Mobile/kelompok3/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+E:/Kuliah/Sems 5/Mobile/kelompok3/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+E:/Kuliah/Sems 5/Mobile/kelompok3/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+E:/Kuliah/Sems 5/Mobile/kelompok3/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+E:/Kuliah/Sems 5/Mobile/kelompok3/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+E:/Kuliah/Sems 5/Mobile/kelompok3/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+E:/Kuliah/Sems 5/Mobile/kelompok3/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
